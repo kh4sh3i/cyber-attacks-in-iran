@@ -14,8 +14,8 @@ A curated list of awesome cyber attacks in iran, we want to review and explain s
 
 
 ### Shutting Down Smart Gas Stations
-* attack explain : 
-* attack Type :
+* attack explain : The attack disabled a system that allows consumers to buy subsidized fuel with government-issued electronic cards.
+* attack Type : 
 <p align="center">
   <img src="img/3.jpg" width="500">
 </p>
@@ -25,7 +25,7 @@ A curated list of awesome cyber attacks in iran, we want to review and explain s
 
 
 ### Hacking Isfahan city traffic signs
-* attack explain : 
+* attack explain : hacked electronic signs that read “Khamenei, where is our gasoline?” Others hacked signs reportedly showed “Free gas in Jamaran gas station.”
 * attack Type :
 
 <p align="center">
@@ -36,7 +36,7 @@ A curated list of awesome cyber attacks in iran, we want to review and explain s
 
 
 ### iran’s transport ministry and railways
-* attack explain : 
+* attack explain : Train services had been disrupted on Friday, with hackers posting fake delay notices on station boards.
 * attack Type :
 
 
