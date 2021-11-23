@@ -41,7 +41,7 @@ A curated list of awesome cyber attacks in iran, we want to review and explain s
 
 
 <p align="center">
-  <img src="img/5.png" width="500">
+  <img src="img/6.png" width="500">
 </p>
 
 
@@ -52,5 +52,5 @@ A curated list of awesome cyber attacks in iran, we want to review and explain s
 
 
 <p align="center">
-  <img src="img/1.jpg" width="700">
+  <img src="img/1.jpg" width="500">
 </p>
