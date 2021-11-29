@@ -65,3 +65,9 @@ A curated list of awesome cyber attacks in iran, we want to review and explain s
 <p align="center">
   <img src="img/1.jpg" width="500">
 </p>
+
+
+#### References
+  * https://threats.amnpardaz.com/malware/trojan-win32-breakwin
+  * https://unk9vvn.com/2021/09/apt-ir-1-railway-organization-evin-prison/
+  * https://www.modaberan.ir/
